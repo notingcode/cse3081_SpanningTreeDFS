@@ -30,4 +30,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\Graph_In.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\HW01_00_in.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

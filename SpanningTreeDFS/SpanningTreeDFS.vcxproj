@@ -146,6 +146,10 @@
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\SourceF\Graph_adj_array.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\Graph_In.txt" />
+    <Text Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\HW01_00_in.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
