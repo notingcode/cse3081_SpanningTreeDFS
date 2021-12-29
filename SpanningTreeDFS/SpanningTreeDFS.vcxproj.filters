@@ -15,26 +15,26 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\SourceF\Graph_adj_array_main.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\SourceF\Graph_adj_array_tree_check.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\SourceF\s181605H02.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\SourceF\Graph_adj_array.h">
+    <ClInclude Include="Graph_adj_array.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\Graph_In.txt">
+    <ClCompile Include="Graph_adj_array_main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_adj_array_tree_check.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s181605H02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Graph_In.txt">
       <Filter>리소스 파일</Filter>
     </Text>
-    <Text Include="..\..\..\..\Downloads\알고리즘숙제\PHW02_material\HW01_00_in.txt">
+    <Text Include="HW01_00_in.txt">
       <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>
